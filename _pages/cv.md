@@ -1,64 +1,64 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+### Karen Levinzon
+# RESUME
+### Contact Me !*!*
+klkat8@yahoo.com
+<hr>
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+### Education !*!*
+✦ Richland High School | 2025-Present. Class of 2029.
+<br>
+✦ Carmichael Middle School | 2022-2025
+<br>
+✦ GPA: 3.9
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### Skills !*!*
+✦ JavaScript: ★ ★ ★ ★ ☆
+<br>
+✦ HTML + CSS: ★ ★ ★ ★ ☆
+<br>
+✦ Algorithm Development: ★ ★ ★ ★ ☆
+<br>
+✦ Event-driven Programming: ★ ★ ★ ★ ★ 
+<br>
+✦ Logic & Abstraction: ★ ★ ★ ★ ☆
+<br>
+✦ Teamwork: ★ ★ ★ ★ ☆
+<br>
+✦ Communication: ★ ★ ★ ★ ☆
+<br>
+✦ Time Management: ★ ★ ★ ★ ☆
+<br>
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### Experience !*!*
+#### ✦ AP Computer Science Principles | Richland High School:
+Learned how to use the JavaScript coding language and much more about key events, graphics, problem solving, debugging, logic, abstract, and so on. Used what I learned from this class to create two programs, both of which are simple games that still show what I learned, as I include key events, user input, output, loops, lists, sequencing, selection, and so on in my code, which helped me create my programs how I wanted to.
+#### ✦ Computer Science Discoveries | Carmichael Middle School:
+Worked with both HTML and CSS coding languages in this class. Used both to create a webpage that included links, different text sizes, images, and other elements within the code, just as I wanted.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Activities !*!*
+✦ Program Creating
+<br>
+✦ Webpage Creating
+<br>
+✦ Coding Exercises
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### Technology/Coding Projects !*!*
+✦ Music-related webpage created with HTML/CSS
+<br>
+✦ Cat-related guessing game created with JavaScript
+<br>
+✦ Music-related guessing game created with JavaScript
+
+### Accomplishments !*!*
+<img src="https://github.com/user-attachments/assets/d9379dd2-8857-4487-8270-8b11ecaca9a2" width = "350"/>
+<br>
+<img src="https://github.com/user-attachments/assets/7c6bb958-0c44-401e-9db2-2f9d700fa4ce" width = "350"/>
