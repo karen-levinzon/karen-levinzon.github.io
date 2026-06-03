@@ -8,8 +8,8 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "About Karen Levinzon!"
-    url: https://github.com/karen-levinzon/karen-levinzon.github.io/blob/master/_pages/about.md
-    
   - title: "Her Projects!"
-    url: https://github.com/karen-levinzon/karen-levinzon.github.io/tree/master/_portfolio
+    url: /portfolio/
+    
+  - title: "Her Resume!"
+    url: /cv/
