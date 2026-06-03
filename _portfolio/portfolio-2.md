@@ -1,6 +1,6 @@
 ---
 title: "Corrected Cat Project !"
-excerpt: 'Cat-related guessing game created with JavaScript <img width="500" height="300" src="https://github.com/user-attachments/assets/ea79c264-ff62-4f47-aee4-0ba6bbb101ec">'
+excerpt: 'Cat-related guessing game created with JavaScript <img width="500" height="300" src="https://github.com/user-attachments/assets/0c584311-44b6-4158-95a3-968bec315841">'
 collection: portfolio
 ---
 
