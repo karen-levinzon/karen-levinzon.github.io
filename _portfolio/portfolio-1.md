@@ -1,7 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Music Around the World Project !<br/><img src=<img width="500" height="300" src="https://github.com/user-attachments/assets/ea79c264-ff62-4f47-aee4-0ba6bbb101ec"/>
->"
+title: "Music Around the World Project !"
+excerpt: " Music-related webpage created with HTML/CSS<br/><img src=<img width="500" height="300" src="https://github.com/user-attachments/assets/ea79c264-ff62-4f47-aee4-0ba6bbb101ec"/> "
 collection: portfolio
 ---
 
