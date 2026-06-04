@@ -1,8 +1,10 @@
 ---
-title: "[Music Around the World](https://etaizfwrkf-2922669274-a.codehs.me/index.html) Project !*!*"
+title: "Music Around the World Project !*!*"
 excerpt: 'Music-related webpage created with HTML/CSS <br><img width="500" height="300" src="https://github.com/user-attachments/assets/ea79c264-ff62-4f47-aee4-0ba6bbb101ec">'
 collection: portfolio
 ---
+
+## [Try Out the Project Here](https://etaizfwrkf-2922669274-a.codehs.me/index.html) !*!*
 
 ### About This Project !*!*
 This project was created with two programming languages: HTML and CSS. It is a webpage that I created to show my love for music. It is created using images, links, texts of different sizes and colors, lists, and more. The purpose of this webpage is to introduce music from around the world. It features multiple links to Spotify playlists, some made by me, with songs from specific countries (one playlist includes songs from Thailand, another from South Korea, and so on), as well as ordered lists of the top 10 most popular artists that are featured in these playlists. I really enjoy discovering songs from other countries that I love. So I used this webpage as an opportunity to let others do the same, as well as to learn about the kinds of music that are popular in other countries, helping them learn more about culture, different languages, and so on. Working on this webpage has also taught me about songs and artists I have never heard of before, and allowed me to learn about what kind of different music artists are out there in the world, and this is another thing that users can use my webpage to learn, adding more to the opportunity that they already have with visiting my webpage.
