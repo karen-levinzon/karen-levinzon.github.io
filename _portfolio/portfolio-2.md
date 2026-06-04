@@ -1,5 +1,5 @@
 ---
-title: "["Corrected Cat"](https://codehs.com/sandbox/karenlevinzon13/new-practice-pt-project-ti/run) Project !*!*"
+title: "[Corrected Cat](https://codehs.com/sandbox/karenlevinzon13/new-practice-pt-project-ti/run) Project !*!*"
 excerpt: 'Cat-related guessing game created with JavaScript <br><img width="500" height="300" src="https://github.com/user-attachments/assets/0c584311-44b6-4158-95a3-968bec315841">'
 collection: portfolio
 ---
