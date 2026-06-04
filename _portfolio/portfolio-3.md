@@ -1,10 +1,8 @@
 ---
 title: "Guess the Song Project !"
-excerpt: "Music-related guessing game created with JavaScript <br><img width="500" height="300" src='https://github.com/user-attachments/assets/6bb21f74-7632-48c8-8462-995d4071b786'>"
+excerpt: 'Music-related guessing game created with JavaScript <br><img width="500" height="300" src="https://github.com/user-attachments/assets/6bb21f74-7632-48c8-8462-995d4071b786">'
 collection: portfolio
 ---
-
-
 
 # ["Guess the Song"](https://codehs.com/sandbox/karenlevinzon13/final-pt-project/run) Project !*!*
 ### About This Project !*!*
