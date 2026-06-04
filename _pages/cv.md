@@ -5,8 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-### Karen Levinzon
-# RESUME
+## Karen Levinzon
 ### Contact Me !*!*
 klkat8@yahoo.com
 <hr>
