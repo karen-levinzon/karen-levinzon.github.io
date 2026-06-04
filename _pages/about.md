@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Karen Levinzon"
+title: "Get to Know: Karen Levinzon !*!*"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Get to Know: Karen Levinzon !*!*
 
 ## About Me !*!*
 I am a 14-year-old freshman at Richland High School. I am in AP Computer Science Principles, and this class is interesting, as learning to create websites, programs, and even simple games with code is very interesting to me! I like how code can be used to create almost anything you want! Something else I would be interested in learning in the computer science/technology field is graphic design and/or video game design, as these are cool areas to learn, especially given my interest in designing and creating things my way. This was just a brief introduction to learn more about my interest in computer science, technology, and design! :)
