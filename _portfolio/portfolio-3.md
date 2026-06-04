@@ -1,6 +1,6 @@
 ---
 title: "Guess the Song Project !"
-excerpt: "Music-related guessing game created with JavaScript <br/><img width="500" height="300" src="https://github.com/user-attachments/assets/9cbaba63-559e-4f4a-8208-543d35b87511'>"
+excerpt: 'Music-related guessing game created with JavaScript <br><img width="500" height="300" src="https://github.com/user-attachments/assets/6bb21f74-7632-48c8-8462-995d4071b786"">'
 collection: portfolio
 ---
 
